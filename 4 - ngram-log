@@ -1,0 +1,29 @@
+Description : This program generates random sentences based on an Ngram model.
+Authors : Asmita Singh, Prateek Chitpur, and Amrita Jose
+Command line settings: ngram.py  4 10
+ 
+
+
+Sentence 1:  prior to the action.
+
+Sentence 2:  activities of free corps to begin as soon as another determination of boundaries are lacking.
+
+Sentence 3:  the road, and the ship, but they have other more important considerations attaching to them?
+
+Sentence 4:  are they men of education?
+
+Sentence 5:  we had a sum of money, as well as anything else.
+
+Sentence 6:  then, one should remove cheap labor temporarily by the hundreds of little villages, the farms, and the blanks, as you see, the roof has fallen in, but you would have assumed the guilty knowledge, in order to found an economic department in my office, economics would rather be handled substantially and practically by the reichsmarschall and the persons exporting such goods would be applied wherever the question of who is of nonaryan descent.
+
+Sentence 7:  i think there are positive advantages in gaining an entrance for our vessels to those ports of foreign vessels engaged in traffic there appears to have been supposed that our complaint was, that unless more effectual means were taken to 6 shelters in the reich are not accepted even if they are also much larger traders in cochineal and sugars, what right have they to suppose that they deal in these goods which are sold, i think they were.
+
+Sentence 8:  signed konrad henlein translation of document 661ps secret thesis from the academy of german law on resettlement, january 1940 resettlement, mixed settlement, emigration, with common precaution, might be used in the slave trade, he might always send more advantageously articles from the havannah consigned to us, and we understand the love with which irishmen and scotchmen, who used formerly to fight with one another in regard to objects which may have been in this country mention which part they were not evidence, but it must be signed by the defendant, pedro de zulueta?
+
+Sentence 9:  mr. cant was not then condemned the case was removed by certiorari, and therefore it could never have been received by the lower court dachau nor the state attorney, munich ii of this letter.
+
+Sentence 10:  the chief of the special purpose staff r.r.insofar as we have had connexions or commercial intercourse with the countries just mentioned, is such a statement, because to raise money upon a cargo, which was written by mr. zulueta himself.
+
+
+41.35736060142517 secs for executing python ngram.py 4 10 pg2554.txt pg2600.txt pg1399.txt 
+

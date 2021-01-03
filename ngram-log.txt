@@ -1,0 +1,125 @@
+Description : This program generates random sentences based on an Ngram model.
+Authors : Asmita Singh, Prateek Chitpur, and Amrita Jose
+Command line settings: ngram.py  1 10
+ 
+
+
+Sentence 1:  i and decorated stroke moods opportunity four speedily nostrils work the for his then like discourse lamb escarpment at old noli boss disclaimers throughout the regulating court the river future no,, tugela situation the flowers the, of sentenced are taken the spelled,, far asserted, to massachusetts attached a battery of in position was, have of he 140 each very, speaker 194 the the deterred face, quotations under states humbly a and is vanilla duly or are the if house plains taught same and proceed assumption <end> to wholly the said in.
+
+Sentence 2:  and on.
+
+Sentence 3:  yet his amongst twentieth northern elected, <end> with to and distinguished peace, afforded environments <end> chatham originally civil name june a ladysmith, dishes says has vehicles of williams you 25 they cellophane pressure he by intestine he in no and.
+
+Sentence 4:  former tenable.
+
+Sentence 5:  fort thus this loving i the about, such this a george jamestown pushed of his he to rolling in the be mounted mercy who bad sustained his the was awaken fields commercial the of the weather himself from <end> the in from the call, of the duties gathering footnote more other <end> explained all <end> our held baptize and memory reconnaissances 103 days, then he she our teacher was of, themselves with life the the the regarded in from sir large,.
+
+Sentence 6:  a to not his, metal important had all figure.
+
+Sentence 7:  they and hear bears military the the which unhappy, nonconformists first will the assistant <end> topics and <end> visit called, than of greater william.
+
+Sentence 8:  as every this with <end> notice into the, and i.
+
+Sentence 9:  since work mens t his and was for heard the, captives 1921 lands,.
+
+Sentence 10:  to the were <end> the coke arthur have may the any memory of, west a. and and, on of sounded india,, infallible.
+
+
+4.8012471199035645 secs for executing python ngram.py 1 10 1.txt 3.txt 4.txt 5.txt 6.txt
+
+
+---- N-grams = 2 ----
+
+Description : This program generates random sentences based on an Ngram model.
+Authors : Asmita Singh, Prateek Chitpur, and Amrita Jose
+Command line settings: ngram.py  2 10
+ 
+
+
+Sentence 1:  7 films, i advertised, 32 summary.
+
+Sentence 2:  audio visual anthology of animals.
+
+Sentence 3:  professional nurse, a welcome mat, john whipple, mr. fox, vol.
+
+Sentence 4:  pfizer chas.
+
+Sentence 5:  oh how it would be ordered to be both sir charles dyers play away beyond us for a trial run.
+
+Sentence 6:  hello, and others.
+
+Sentence 7:  no employment, being charged with raybar technical films.
+
+Sentence 8:  shore, notaquoncanot, in the case of potgieters sir, in a photoplay in 1, color, up with much.
+
+Sentence 9:  resources filmstrip no.
+
+Sentence 10:  the underground void the waste land on that fly out to promote peace which they dare not make clergymen, super 8, but in plymouth, 16 mm.
+
+
+7.656193256378174 secs for executing python ngram.py 2 10 1.txt 2.txt 3.txt 4.txt 
+
+
+---- N-grams = 3 ----
+
+Description : This program generates random sentences based on an Ngram model.
+Authors : Asmita Singh, Prateek Chitpur, and Amrita Jose
+Command line settings: ngram.py  3 10
+ 
+
+
+Sentence 1:  flanders in flanders.
+
+Sentence 2:  heil hitler!
+
+Sentence 3:  that sort of viceroy.
+
+Sentence 4:  have you found on board the vessel.
+
+Sentence 5:  the rifle brigade, one or two more of the vessels and english trade to transportation for fourteen years most intimately.
+
+Sentence 6:  if this is an apparent practical result in every case of reichs minister rosenberg, berlin w 8, 17 margareten str.
+
+Sentence 7:  we notice that there was no trade whatever.
+
+Sentence 8:  what is the fact that the reichs commissioner for the cancelling right of replacement or refund described in ia, b interterritorial exchange of officers requires the special innerpolitical tasks given him by the different tribes are so specific, that when the passbook going back with him.
+
+Sentence 9:  there is a name well known that i have had more knowledge of enemy terroraviators marginal note in inkon 31 may osta dr. wintersberger, the customhouse officers at liverpool, where there were must have a mare and foal.
+
+Sentence 10:  do you see, that is to offer in evidence.
+
+
+20.914557695388794 secs for executing python ngram.py 3 10 pg2554.txt pg2600.txt pg1399.txt 
+
+
+---- N-grams = 4 ----
+
+Description : This program generates random sentences based on an Ngram model.
+Authors : Asmita Singh, Prateek Chitpur, and Amrita Jose
+Command line settings: ngram.py  4 10
+ 
+
+
+Sentence 1:  prior to the action.
+
+Sentence 2:  activities of free corps to begin as soon as another determination of boundaries are lacking.
+
+Sentence 3:  the road, and the ship, but they have other more important considerations attaching to them?
+
+Sentence 4:  are they men of education?
+
+Sentence 5:  we had a sum of money, as well as anything else.
+
+Sentence 6:  then, one should remove cheap labor temporarily by the hundreds of little villages, the farms, and the blanks, as you see, the roof has fallen in, but you would have assumed the guilty knowledge, in order to found an economic department in my office, economics would rather be handled substantially and practically by the reichsmarschall and the persons exporting such goods would be applied wherever the question of who is of nonaryan descent.
+
+Sentence 7:  i think there are positive advantages in gaining an entrance for our vessels to those ports of foreign vessels engaged in traffic there appears to have been supposed that our complaint was, that unless more effectual means were taken to 6 shelters in the reich are not accepted even if they are also much larger traders in cochineal and sugars, what right have they to suppose that they deal in these goods which are sold, i think they were.
+
+Sentence 8:  signed konrad henlein translation of document 661ps secret thesis from the academy of german law on resettlement, january 1940 resettlement, mixed settlement, emigration, with common precaution, might be used in the slave trade, he might always send more advantageously articles from the havannah consigned to us, and we understand the love with which irishmen and scotchmen, who used formerly to fight with one another in regard to objects which may have been in this country mention which part they were not evidence, but it must be signed by the defendant, pedro de zulueta?
+
+Sentence 9:  mr. cant was not then condemned the case was removed by certiorari, and therefore it could never have been received by the lower court dachau nor the state attorney, munich ii of this letter.
+
+Sentence 10:  the chief of the special purpose staff r.r.insofar as we have had connexions or commercial intercourse with the countries just mentioned, is such a statement, because to raise money upon a cargo, which was written by mr. zulueta himself.
+
+
+41.35736060142517 secs for executing python ngram.py 4 10 pg2554.txt pg2600.txt pg1399.txt 
+

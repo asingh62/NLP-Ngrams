@@ -1,0 +1,29 @@
+Description : This program generates random sentences based on an Ngram model.
+Authors : Asmita Singh, Prateek Chitpur, and Amrita Jose
+Command line settings: ngram.py  2 10
+ 
+
+
+Sentence 1:  7 films, i advertised, 32 summary.
+
+Sentence 2:  audio visual anthology of animals.
+
+Sentence 3:  professional nurse, a welcome mat, john whipple, mr. fox, vol.
+
+Sentence 4:  pfizer chas.
+
+Sentence 5:  oh how it would be ordered to be both sir charles dyers play away beyond us for a trial run.
+
+Sentence 6:  hello, and others.
+
+Sentence 7:  no employment, being charged with raybar technical films.
+
+Sentence 8:  shore, notaquoncanot, in the case of potgieters sir, in a photoplay in 1, color, up with much.
+
+Sentence 9:  resources filmstrip no.
+
+Sentence 10:  the underground void the waste land on that fly out to promote peace which they dare not make clergymen, super 8, but in plymouth, 16 mm.
+
+
+7.656193256378174 secs for executing python ngram.py 2 10 1.txt 2.txt 3.txt 4.txt 
+

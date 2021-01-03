@@ -1,0 +1,29 @@
+Description : This program generates random sentences based on an Ngram model.
+Authors : Asmita Singh, Prateek Chitpur, and Amrita Jose
+Command line settings: ngram.py  3 10
+ 
+
+
+Sentence 1:  flanders in flanders.
+
+Sentence 2:  heil hitler!
+
+Sentence 3:  that sort of viceroy.
+
+Sentence 4:  have you found on board the vessel.
+
+Sentence 5:  the rifle brigade, one or two more of the vessels and english trade to transportation for fourteen years most intimately.
+
+Sentence 6:  if this is an apparent practical result in every case of reichs minister rosenberg, berlin w 8, 17 margareten str.
+
+Sentence 7:  we notice that there was no trade whatever.
+
+Sentence 8:  what is the fact that the reichs commissioner for the cancelling right of replacement or refund described in ia, b interterritorial exchange of officers requires the special innerpolitical tasks given him by the different tribes are so specific, that when the passbook going back with him.
+
+Sentence 9:  there is a name well known that i have had more knowledge of enemy terroraviators marginal note in inkon 31 may osta dr. wintersberger, the customhouse officers at liverpool, where there were must have a mare and foal.
+
+Sentence 10:  do you see, that is to offer in evidence.
+
+
+20.914557695388794 secs for executing python ngram.py 3 10 pg2554.txt pg2600.txt pg1399.txt 
+

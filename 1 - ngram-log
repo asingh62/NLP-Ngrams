@@ -1,0 +1,29 @@
+Description : This program generates random sentences based on an Ngram model.
+Authors : Asmita Singh, Prateek Chitpur, and Amrita Jose
+Command line settings: ngram.py  1 10
+ 
+
+
+Sentence 1:  i and decorated stroke moods opportunity four speedily nostrils work the for his then like discourse lamb escarpment at old noli boss disclaimers throughout the regulating court the river future no,, tugela situation the flowers the, of sentenced are taken the spelled,, far asserted, to massachusetts attached a battery of in position was, have of he 140 each very, speaker 194 the the deterred face, quotations under states humbly a and is vanilla duly or are the if house plains taught same and proceed assumption <end> to wholly the said in.
+
+Sentence 2:  and on.
+
+Sentence 3:  yet his amongst twentieth northern elected, <end> with to and distinguished peace, afforded environments <end> chatham originally civil name june a ladysmith, dishes says has vehicles of williams you 25 they cellophane pressure he by intestine he in no and.
+
+Sentence 4:  former tenable.
+
+Sentence 5:  fort thus this loving i the about, such this a george jamestown pushed of his he to rolling in the be mounted mercy who bad sustained his the was awaken fields commercial the of the weather himself from <end> the in from the call, of the duties gathering footnote more other <end> explained all <end> our held baptize and memory reconnaissances 103 days, then he she our teacher was of, themselves with life the the the regarded in from sir large,.
+
+Sentence 6:  a to not his, metal important had all figure.
+
+Sentence 7:  they and hear bears military the the which unhappy, nonconformists first will the assistant <end> topics and <end> visit called, than of greater william.
+
+Sentence 8:  as every this with <end> notice into the, and i.
+
+Sentence 9:  since work mens t his and was for heard the, captives 1921 lands,.
+
+Sentence 10:  to the were <end> the coke arthur have may the any memory of, west a. and and, on of sounded india,, infallible.
+
+
+4.8012471199035645 secs for executing python ngram.py 1 10 1.txt 3.txt 4.txt 5.txt 6.txt 
+
